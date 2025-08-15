@@ -48,7 +48,7 @@ The synthetic dataset, which forms the bedrock of our model's knowledge, was eng
 
 The platform is designed as a scalable, containerized system using a microservices architecture. This ensures modularity, resilience, and ease of deployment.
 
-![System Architecture Diagram](https://i.imgur.com/your-architecture-diagram.png)  <!-- You would create and link a diagram here -->
+![System Architecture Diagram](https://architecture-diagram.png)  <!-- You would create and link a diagram here -->
 
 ### The Pipeline Services:
 
